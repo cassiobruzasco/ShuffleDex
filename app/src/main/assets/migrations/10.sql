@@ -1,0 +1,1 @@
+UPDATE Pokemon SET IMAGE_NAME='ic_mega_sceptile' WHERE NAME='Mega Sceptile';

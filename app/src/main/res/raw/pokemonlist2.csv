@@ -1,0 +1,18 @@
+337,Tornadus,type_flying,Special Stage,70,Power of 5+,39%,ic_tornadus,false,false
+338,Thundurus,type_electr,Special Stage,70,Power of 5+,39%,ic_thundurus,false,false
+339,Landorus,type_ground,Special Stage,80,Power of 5+,39%,ic_landorus,false,false
+340,Budew,type_grass,Main Stage 241,40,Mega Boost+,12%,ic_budew,false,false
+341,Roselia,type_grass,Main Stage 248,60,Rock Break,4%,ic_roselia,false,false
+342,Roserade,type_grass,Main Stage 250,70,Stabilize+,23%,ic_roserade,false,false
+343,Machop,type_fight,Main Stage 242,50,Pummel,23%,ic_machop,false,false
+344,Machoke,type_fight,Main Stage 247,60,Stabilize,19%,ic_machoke,false,false
+345,Machamp,type_fight,Special Stage,70,Eject,12%,ic_machamp,false,false
+346,Shinx,type_electr,Main Stage 243,30,Counterattack,22%,ic_shinx,false,false
+347,Luxio,type_electr,Main Stage 245,50,Block Smash,21%,ic_luxio,false,false
+348,Luxray,type_electr,Unknown,00,Unknown,Unknown,ic_luxray,false,false
+349,Whismur,type_normal,Main Stage 244,30,Paralyze,12%,ic_whismur,false,false
+350,Loudred,type_normal,Unknown,00,Unknown,Unknown,ic_loudred,false,false
+351,Exploud,type_normal,Unknown,00,Unknown,Unknown,ic_exploud,false,false
+352,Spritzee,type_fairy,Main Stage 246,50,Mega Boost+,17%,ic_spritzee,false,false
+353,Aromatisse,type_fairy,Main Stage 249,60,Power of 4,19%,ic_aromatisse,false,false
+354,Regigigas,type_normal,Special Stage,90,Hyper Punch,9%,ic_regigigas,false,false

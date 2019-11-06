@@ -1,0 +1,104 @@
+Paralyze,Leaves the foe Paralyzed,10%,30%,80%,0,Paralyze for 3 turns. Steel and Electric types are immune to this skill
+Opportunist,Attacks can occasionally deal greater damage than usual,5%,10%,10%,0,When triggered does 50% the current damage
+Mega Boost,Fills the Mega Gauge of a Pokémon of the same type,50%,100%,100%,0,Increase the Mega Gauge Bar by 3
+Power of 4,Attacks do more damage when you make a match of 4,0%,100%,0%,0,When triggered does 50% the current damage
+Power of 5,Attacks do more damage when you make a match of 5,0%,0%,100%,0,When triggered does 50% the current damage
+Eject,Removes one non-Support Pokémon icon without fail,100%,100%,100%,0,Removes a disruption-based Pokemon
+Risk Taker,Damage may randomly be increased or decreased,50%,70%,100%,0,Not tested
+Block Smash,Clears one unbreakable-block disruption without fail,100%,100%,100%,0,Removes 1 Metal Block on the board
+Stabilize,Occasionally erases one of the foe's disruptions on the board,30%,50%,100%,0,Erases 1 Barrier - Rock - Metal Block - Black Cloud or Coin
+Swap,Can replace a disruption with one of your Pokémon,30%,50%,100%,0,Changes 1 Rock, Metal Block or Coin into a matching Pokemon
+Pummel,Increases damage done by any Fighting types in a combo,15%,50%,100%,0,Damages done by Fighting Type in the combo increased by 20%
+Burn,Can inflict the opponent with a burn for three turns. All Fire-type damage is increased by 50,5%,30%,80%,0,Burn opponent for 3 turns. Burned Pokemon take 50% increased damage from Fire Pokemon
+Sleep Charm,Inflicts the opponent with Sleep for three turns prevent it from using its distortion,5%,30%,80%,0,Asleep Pokemon cannot use disruption and damage increased by 20%
+Swarm,Increases damage done by your last 3 attacks in a stage by 50,60%,100%,100%,0,When triggered does 50% the current damage but only activates on last 3 turns
+Pixie Power,Increases damage of Fairy-type moves in a Combo,15%,35%,60%,0,Damages done by Fairy Type in the combo increased by 50%
+Freeze,Has a chance of freezing an opponent,5%,25%,70%,0,Freezes for 3 turns, freeze pokemon cannot use disruption and take 50% increased damage from Ice Pokemon
+Prank,Occasionally changes when a foe will next disrupt your play,20%,40%,100%,0,Changes the Timer Disruption counter to a random number
+Pyre,Increases damage done by any Fire types in a combo,50%,100%,100%,0,Damages done by Fire Type in the combo increased by 20%
+Rock Break,Destroys one breakable-rock disruption without fail,100%,100%,100%,0,Removes 1 Rock on the board
+Mind Zap,Can delay your opponent's disruptions for a turn,10%,40%,100%,0,Resets the Timer Disruption counter back to original
+Heavy Hitter,Attacks sometimes deal greater damage than usual,20%,50%,50%,0,When triggered does 50% more damage
+Dragon Talon,Attacks sometimes deal greater damage than usual,20%,50%,50%,0,When triggered does 50% more damage
+Steely Resolve,Attacks do more damage when things are looking desperate,60%,100%,100%,0,When triggered does 50% the current damage but only activates on last 3 turns
+Barrier Bash,Removes one barrier-type disruption without fail,100%,100%,100%,0,Removes 1 Barrier from the board
+Vitality Drain,Does more damage when the opponent has more HP left,5%,10%,30%,0,Damage equals Opponent's remaining HP x10%.
+Dancing Dragons,Increases damage done by any Dragon types in a combo,20%,50%,100%,0,Damage done by Dragons in the same combo increased by 20%
+Sinister Power,Increases damage of Dark-type moves in a Combo,15%,35%,60%,0,Damages done by Dark Type in the combo increased by 50%
+Flap,Occasionally disrupts a Ground-type opponent's disruptions,50%,100%,100%,0,Timer Disruption will not go down for a turn when the opponent is Ground Type
+Last-Ditch Effort,Attacks do more damage when things are looking desperate,50%,100%,100%,0,When triggered does 50% the current damage but only activates on last 3 turns
+Quake,Sometimes increases damage and leaves opponent paralyzed,20%,30%,50%,0,Damage when triggered increased by 20% and Paralyzes the opponent. Electric and Steel Pokemons are immune to paralyze.
+Crowd Control,The more of this Pokémon in the puzzle area the more damage,20%,100%,100%,0,Damage increased by number of same Pokemon on board x50
+Counterattack,The more disruptions on the board the greater the damage,25%,50%,100%,0,Damage increased by number of disruptions on board x20
+Hitting Streak,Does more damage the more times in a row it is triggered,60%,100%,100%,0,Damage is based on number of Damage Streak activated on same combo: 1st = +20% / 2nd = +44% / 3rd = +72% / 4th = +100%
+Damage Streak,Does more damage the more times in a row it is triggered,60%,100%,100%,0,Damage is based on number of Damage Streak activated on same combo: 1st = +20% / 2nd = +44% / 3rd = +72% / 4th = +100%
+Fearless,Combos do more damage if the opponent is Ghost type,10%,50%,100%,0,Not released yet.
+Swat,Does more damage against Flying Bug or Fairy types,20%,30%,50%,0,Not tested
+Brute Force,Increases damage for attacks that are not very effective,50%,100%,100%,0,Not very effective attacks will deal 2x damage
+Cloud Clear,Clears clouds within 1 space,100%,100%,100%,0,Removes 1 Black Cloud on the board
+Quirky,Occasionally erases one extra matching Pokémon elsewhere,30%,50%,100%,0,Erases 1 of the same Pokemon on board
+Quirky+,Occasionally erases two extra matching Pokémon elsewhere,25%,35%,100%,0,Erases 2 of the same Pokemon on board
+Stabilize+,Occasionally erases two of the foe's disruptions on the board,20%,50%,80%,0,Erases 2 Barrier - Rock - Metal Block - Black Cloud or Coin
+Disrupt Buster,Occasionally erases all of the foe's disruptions,2%,3%,4%,0,Not released yet
+Astonish,Can delay your opponent's disruptions for a turn,20%,30%,100%,0,Timer Disruption will not go down for a turn
+Spookify,Leaves the foe spooked,5%,30%,80%,0,Opponent will be spooked. A Spooked Pokemon increases damage by Ghost Type by 50%
+Chill,Can delay your opponent's disruptions for a turn,20%,30%,100%,0,Timer Disruption will not go down for a turn
+Hyper Punch,Attacks sometimes deal greater damage than usual,10%,50%,50%,0,Damage when triggered x3
+Power of 4+,Attacks do even more damage when you make a match of four,0%,80%,0%,0,Damage when triggered x3
+Power of 5+,Attacks do even more damage when you make a match of five,0%,0%,80%,0,Damage when triggered x3
+Crowd Power,The more of this Pokémon in the puzzle area the more damage,40%,100%,100%,0,Damage increased by number of same Pokemon on board x50
+Double Normal,Increases damage done by any Normal types in a combo,20%,60%,80%,0,Damage done by Normal Types when triggered x2.5
+Mega Boost+,Fills the Mega Gauge of the same type of Pokémon more,50%,100%,100%,0,Increase the Mega Gauge Bar by 6
+Mega Boost++,Fills the Mega Gauge of same type of Pokémon even more,10%,20%,30%,0,Increase the Mega Gauge Bar by 9
+Stabilize++,Occasionally erases five of the foe's disruptions on the board,25%,50%,100%,0,Erases 5 Barrier - Rock - Metal Block - Black Cloud or Coin
+Rock Break+,Sometimes destroys three breakable-rock disruptions,50%,100%,100%,0,Removes 3 Rocks on the board
+Rock Break++,Sometimes destroys five breakable-rock disruptions,40%,100%,100%,0,Removes 5 Rocks on the board
+Cloud Clear+,Sometimes clears away three black-cloud disruptions,50%,100%,100%,0,Removes 3 Black Clouds on the board
+Cloud Clear++,Sometimes clears away five black-cloud disruptions,40%,100%,100%,0,Removes 5 Black Clouds on the board
+Block Smash+,Sometimes clears three unbreakable-block disruptions,50%,100%,100%,0,Removes 3 Metal Blocks on the board
+Block Smash++,Sometimes clears five unbreakable-block disruptions,40%,100%,100%,0,Removes 5 Metal Blocks on the board
+Eject+,Sometimes removes three non-Support Pokémon icons,50%,100%,100%,0,Removes 3 disruption-based Pokemon
+Eject++,Sometimes removes five non-Support Pokémon icons,40%,100%,100%,0,Removes 5 disruption-based Pokemon
+Barrier Bash+,Sometimes removes three barrier-type disruptions,50%,100%,100%,0,Removes 3 Barriers on the board
+Barrier Bash++,Sometimes removes five barrier-type disruptions,40%,100%,100%,0,Removes 5 Barriers on the board
+Swap+,Can replace some disruptions with this Pokémon,25%,50%,100%,0,Changes 3 Rock, Metal Block or Coin into a matching Pokemon
+Swap++,Can replace many disruptions with this Pokémon,20%,50%,100%,0,Changes 5 Rock, Metal Block or Coin into a matching Pokemon
+Shock Attack,Leaves the foe paralyzed,20%,30%,80%,0,Paralyze for 3 turns, Steel and Electric types are immune to this skill
+Nosedive,Attacks can occasionally deal greater damage than usual,15%,40%,70%,0,Not released yet
+Sky Blast,Increases damage done by any Flying types in a combo,10%,60%,90%,0,Damage done by Flying Type in a combo x2
+Poisonous Mist,Does more damage when the opponent has more HP left,15%,25%,30%,0,Damage equals Opponent's remaining HP x10%.
+Downpour,Does more damage when the opponent has more HP left,15%,25%,30%,0,Damage equals Opponent's remaining HP x10%.
+Super Bolt,Attacks can occasionally deal greater damage than usual,10%,20%,50%,0,Damage when triggered x10
+Venusaur Mega Power,Erases 5 Pokémon in the columns to the left and right of the Pokémon in the chain,100%,100%,100%,3,A vertical match will erase all Pokemon from left to right for each row
+Charizard Y Mega Power,Erases all Pokémon in a Y-shaped pattern,100%,100%,100%,3,Erased tiles are always the same
+Blastoise Mega Power,Erases out Pokémon within two space of all Pokémon in the chain and uses the to make one powerful attack,100%,100%,100%,4,You can extend the Mega Effect of this Pokemon by having more Mega beside the match
+Audino Mega Power,Erases out Pokémon within one space of all Pokémon in the chain,100%,100%,100%,3,You can extend the Mega Effect of this Pokemon by having more Mega beside the match
+Absol Mega Power,Erases diagonal Pokémon from upper-right to lower-left corner.,100%,100%,100%,3,Erase as a scratch pattern
+Ampharos Mega Power,A random lightning strike erases a jagged line of Pokémon.,100%,100%,100%,7,2 random lightning line from Row 1 up to Row 6
+Altaria Mega Power,Erases out Pokémon within two space of all Pokémon in the chain and uses the to make one powerful attack,100%,100%,100%,6,You can extend the Mega Effect of this Pokemon by having more Mega beside the match
+Heracross Mega Power,Adds one more Mega Heracross to the left of the match,100%,100%,100%,6,It only adds one more Heracross tile at the left of the other Heracross tiles
+Lopunny Mega Power,Erases 5 Pokémon in the rows above and beneath the Pokémon in the chain,100%,100%,100%,8,A horizontal match will erase all Pokemon above and below for each column
+Kangaskhan Mega Power,Erases 5 Pokémon in the columns to the left and right of the Pokémon in the chain,100%,100%,100%,8,A vertical match will erase all Pokemon from left to right for each row
+Sableye Mega Power,Erases all Pokémon in a O-shaped pattern,100%,100%,100%,8,Erased tiles are always the same
+Lucario Mega Power,Erases 5 Pokémon in the rows above and beneath the Pokémon in the chain,100%,100%,100%,4,A horizontal match will erase all Pokemon above and below for each column
+Slowbro Mega Power,Adds one more Mega Slowbro above the match,100%,100%,100%,2,It only adds one more Slowbro tile above other Slowbro tiles
+Blaziken Mega Power,Erases Pokémon (max 3) of the same type as Mega Blaziken,100%,100%,100%,3,It replaces 3 fire type Pokemon into Blaziken tiles
+Mawile Mega Power,Erases diagonal Pokémon from upper-right to lower-left corner,100%,100%,100%,7,Erase as a scratch pattern
+Gengar Mega Power,Erases all Mega Gengar in the puzzle area,100%,100%,100%,1,Erases all Mega Gengar tiles on board
+Glalie Mega Power,Erases all Pokémon in a V-shaped pattern,100%,100%,100%,6,Erased tiles are always the same
+Aerodactyl Mega Power,Erases rocks and blocks (max 10) and also does damage to the foe,100%,100%,100%,7,Erases up to 10 Rocks/Blocks or Coins
+Mewtwo Mega Power,Clears a Pokémon with the same type as Mega Mewtwo Y (max 10),100%,100%,100%,5,Erases up to 10 tiles with the same type as Mega Mewtwo Y. Will not erase Mewtwo
+Banette Mega Power,Clears a Pokémon with the same type as Mega Banette (max 10),100%,100%,100%,8,Erases up to 10 tiles with the same type as Mega Banette. Will not erase Banette
+Sharpedo Mega Power,Adds one more Mega Sharpedo above the match,100%,100%,100%,10,It only adds one more Sharpedo tile above other Sharpedo tiles
+Manectric Mega Power,A vertical lightning strike erases a jagged line of Pokémon,100%,100%,100%,7,The place where the lightning will strike is random. Erases 2 tiles per row
+Garchomp Mega Power,Erases Pokémon with three lines from upper left to lower right,100%,100%,100%,10,Erase as a scratch pattern
+Latias Mega Power,Erases Pokémon on a random jagged line horizontally,100%,100%,100%,12,2 random lightning line from Column 1 up to Column 6
+Medicham Mega Power,Erases a group of Pokémon in the middle at once,100%,100%,100%,6,Fixed tiles erase. 12 tiles at the center
+Unknown,Skill not discovered yet,0%,0%,0%,0,Unknown
+Rayquaza Mega Power,Erases a Pokémon of a different type from Mega Rayquaza,100%,100,100%,20,Erases up to 10 tiles. Will not erase Rayquaza
+Mewtwo X Mega Power,Erases Pokémon of the same type as Mega Mewtwo X,100%,100%,100%,5,Erases max o 3 Pokémon
+Charizard X Mega Power,Erases all Pokémon in an X-shaped pattern,100%,100%,100%,5,Erased tiles are always the same
+Diancie Mega Power,Erases Pokémon that are covered by a barrier,100%,100%,100%,6,Erases max of 10 barriers
+Swampert Mega Power,Erases Pokémon of the same type as Mega Swampert,100%,100%,100%,3,Erases max o 3 Pokémon
+Latios Mega Power,Erases Pokémon on a jagged line horizontally,100%,100%,100%,5,The jagged line is always the same pattern just the line it starts from is random
+Sceptile Mega Power,Erases Pokémon (max 3) of the same type as Mega Sceptile,100%,100%,100%,3,It replaces 3 fire type Pokemon into Sceptile tiles

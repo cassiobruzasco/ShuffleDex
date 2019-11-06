@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/donation"
+            android:icon="@drawable/ic_donation_icon"
+            android:title="Donations"
+            />
+        <item
+            android:id="@+id/all_pokemons"
+            android:icon="@drawable/ic_pikachu_drawer"
+            android:title="All Pokémon" />
+        <item
+            android:id="@+id/main_stages"
+            android:icon="@drawable/ic_pikachu_face"
+            android:title="Main Stages" />
+        <item
+            android:id="@+id/expert_stages"
+            android:icon="@drawable/ic_dragonite_icon"
+            android:title="Expert Stages" />
+        <item
+            android:id="@+id/special_stages"
+            android:icon="@drawable/ic_mew_icon"
+            android:title="Special Stages" />
+        <item
+            android:id="@+id/captured"
+            android:icon="@drawable/ic_pokeball_false_icon"
+            android:title="My Pokémon" />
+        <item
+            android:id="@+id/skill"
+            android:icon="@drawable/ic_skill_drawer"
+            android:title="Skills" />
+        <item
+            android:id="@+id/overall"
+            android:icon="@drawable/ic_s_false"
+            android:title="Overall Information"/>
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_info"
+            android:title="About" />
+    </group>
+    <!--
+    <item android:title="Share this app">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+-->
+</menu>

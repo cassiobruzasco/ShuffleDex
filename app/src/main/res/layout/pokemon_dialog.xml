@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/pokemon_face_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="7dp"
+        android:src="@drawable/ic_blastoise_icon" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pokemon_face_dialog"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/dialog_box"
+        android:orientation="vertical"
+        android:padding="25dp">
+
+        <ImageView
+            android:id="@+id/type_img_view_dialog"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:src="@drawable/type_water" />
+
+        <TextView
+            android:id="@+id/power_text_view_dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/type_img_view_dialog"
+            android:layout_alignTop="@id/type_img_view_dialog"
+            android:layout_marginLeft="15dp"
+            android:layout_toRightOf="@id/type_img_view_dialog"
+            android:gravity="center"
+            android:text="Power 60"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/dialog_pokemonid_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/type_img_view_dialog"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:text="ID: #999"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/stage_text_view_dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/type_img_view_dialog"
+            android:layout_below="@id/dialog_pokemonid_tv"
+            android:layout_marginTop="10dp"
+            android:text="Main Stage"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/skill_text_view_dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/stage_text_view_dialog"
+            android:layout_below="@id/stage_text_view_dialog"
+            android:layout_marginTop="10dp"
+            android:text="Skill: Power of 4+"
+            android:textSize="20dp" />
+
+        <ImageButton
+            android:id="@+id/skill_button_dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/skill_text_view_dialog"
+            android:layout_alignTop="@id/skill_text_view_dialog"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/skill_text_view_dialog"
+            android:background="@android:color/transparent"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_info" />
+
+        <TextView
+            android:id="@+id/capture_text_view_dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/skill_text_view_dialog"
+            android:layout_below="@id/skill_text_view_dialog"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:text="Capture Rate: 100%"
+            android:textSize="20dp" />
+
+
+        <ImageButton
+            android:id="@+id/button_captured"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="25dp"
+            android:layout_weight="4"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_pokeball_false_icon" />
+
+        <ImageButton
+            android:id="@+id/grade_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/capture_text_view_dialog"
+            android:layout_alignLeft="@+id/button_captured"
+            android:layout_alignStart="@+id/button_captured"
+            android:layout_weight="4"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_s_false" />
+        <TextView
+            android:id="@+id/tv_rank_dialog"
+            android:text="RANK"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:layout_above="@id/grade_button"
+            android:layout_alignLeft="@id/grade_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

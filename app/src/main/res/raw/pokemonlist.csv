@@ -1,0 +1,543 @@
+1,Bulbasaur,type_grass,Main Stage 002,40,Power of 4,75%,ic_bulbasaur_icon,true,false
+2,Ivysaur,type_grass,Main Stage 059,50,Vitality Drain,7%,ic_ivysaur_icon,false,false
+3,Venusaur,type_grass,Expert Stage 07,60,Vitality Drain,1%,ic_venusaur_icon,false,false
+3,Mega Venusaur,type_grass,Special Stage,60,Venusaur Mega Power,---,ic_mega_venusaur_icon,false,false
+4,Charmander,type_fire,Main Stage 004,40,Power of 4,30%,ic_charmander_icon,false,false
+5,Charmeleon,type_fire,Main Stage 055,50,Burn,7%,ic_charmeleon_icon,false,false
+6,Charizard,type_fire,Expert Stage 009,60,Burn,1%,ic_charizard_icon,false,false
+6,Mega Charizard Y,type_fire,Special Stage,60,Charizard Y Mega Power,---,ic_mega_charizardy_icon,false,false
+7,Squirtle,type_water,Main Stage 003,40,Power of 4,50%,ic_squirtle_icon,false,false
+8,Wartortle,type_water,Main Stage 057,50,Stabilize,7%,ic_wartotle_icon,false,false
+9,Blastoise,type_water,Expert Stage 08,60,Stabilize+,1%,ic_blastoise_icon,false,false
+9,Mega Blastoise,type_water,Special Stage,60,Blastoise Mega Power,---,ic_mega_blastoise_icon,false,false
+10,Pidgey,type_flying,Main Stage 006,30,Opportunist,60%,ic_pidgey_icon,false,false
+11,Pidgeotto,type_flying,Main Stage 044,50,Flap,60%,ic_pidgeotto_icon,false,false
+12,Pidgeot,type_flying,Main Stage 137,60,Flap,7%,ic_pidgeot_icon,false,false
+13,Espurr,type_psychic,Main Stage 001,40,Opportunist,75%,ic_espurr_icon,true,false
+14,Meowstic,type_psychic,Main Stage 067,50,Mega Boost,35%,ic_meowstic1_icon,false,false
+14,Meowstic,type_psychic,Main Stage 081,50,Mega Boost,45%,ic_meowstic2_icon,false,false
+15,Pichu,type_electr,Main Stage 008,30,Opportunist,7%,ic_pichu_icon,false,false
+16,Pikachu,type_electr,Main Stage 023,50,Paralyze,30%,ic_pikachu_face,false,false
+17,Raichu,type_electr,Main Stage 103,60,Paralyze,3%,ic_raichu_icon,false,false
+18,Togepi,type_fairy,Main Stage 007,30,Opportunist,20%,ic_togepi_icon,false,false
+19,Togetic,type_fairy,Main Stage 068,50,Pixie Power,60%,ic_togetic_icon,false,false
+20,Togekiss,type_fairy,Main Stage 147,60,Pixie Power,10%,ic_togekiss_icon,false,false
+21,Bonsly,type_rock,Main Stage 061,40,Opportunist,70%,ic_bonsly_icon,false,false
+22,Sudowoodo,type_rock,Main Stage 093,60,Opportunist,50%,ic_sudowoodo_icon,false,false
+23,Eevee,type_normal,Main Stage 005,40,Mega Boost,20%,ic_eevee_icon,false,false
+24,Vaporeon,type_water,Main Stage 054,50,Mega Boost,5%,ic_vaporeon_icon,false,false
+25,Jolteon,type_electr,Main Stage 112,50,Mega Boost,5%,ic_jolteon_icon,false,false
+26,Flareon,type_fire,Main Stage 123,50,Mega Boost,5%,ic_flareon_icon,false,false
+27,Espeon,type_psychic,Main Stage 071,50,Mega Boost,5%,ic_espeon_icon,false,false
+28,Umbreon,type_dark,Main Stage 070,50,Mega Boost,5%,ic_umbreon_icon,false,false
+29,Leafeon,type_grass,Main Stage 142,50,Mega Boost,5%,ic_leafeon_icon,false,false
+30,Glaceon,type_ice,Main Stage 114,50,Mega Boost,5%,ic_glaceon_icon,false,false
+31,Sylveon,type_fairy,Main Stage 079,50,Mega Boost,5%,ic_sylveon_icon,false,false
+32,Audino,type_normal,Main Stage 009,50,Opportunist,60%,ic_audino_icon,false,false
+32,Mega Audino,type_normal,Main Stage 010,50,Audino Mega Power,---,ic_mega_audino_icon,false,false
+33,Absol,type_dark,Expert Stage 01,60,Mind Zap,1%,ic_absol_icon,false,false
+33,Mega Absol,type_dark,Special Stage,60,Absol Mega Power,---,ic_mega_absol_icon,false,false
+34,Purrloin,type_dark,Main Stage 013,40,Opportunist,70%,ic_purrloin_icon,false,false
+35,Liepard,type_dark,Main Stage 087,60,Counterattack,12%,ic_liepard_icon,false,false
+36,Mareep,type_electr,Main Stage 012,30,Opportunist,40%,ic_mareep_icon,false,false
+37,Flaaffy,type_electr,Main Stage 053,50,Opportunist,70%,ic_flaaffy_icon,false,false
+38,Ampharos,type_electr,Main Stage 130,70,Dancing Dragons,2%,ic_ampharos_icon,false,false
+38,Mega Ampharos,type_electr,Main Stage 105,70,Ampharos Mega Power,---,ic_mega_ampharos_icon,false,false
+39,Rotom,type_electr,Expert Stage 02,60,Paralyze,1%,ic_rotom_electric_icon,false,false
+39,Rotom,type_fire,Special Stage,50,Mega Boost,5%,ic_rotom_fire_icon,false,false
+39,Rotom,type_water,Special Stage,50,Mega Boost,5%,ic_rotom_water_icon,false,false
+39,Rotom,type_ice,Special Stage,50,Mega Boost,5%,ic_rotom_ice_icon,false,false
+39,Rotom,type_flying,Special Stage,50,Mega Boost,5%,ic_rotom_flying_icon,false,false
+39,Rotom,type_grass,Special Stage,50,Mega Boost,5%,ic_rotom_grass_icon,false,false
+40,Happiny,type_normal,Main Stage 011,30,Opportunist,70%,ic_happiny_icon,false,false
+41,Chansey,type_normal,Main Stage 088,60,Mega Boost,10%,ic_chansey_icon,false,false
+42,Blissey,type_normal,Main Stage 115,70,Power of 5,5%,ic_blissey_icon,false,false
+43,Swablu,type_flying,Main Stage 034,50,Opportunist,40%,ic_swablu_icon,false,false
+44,Altaria,type_dragon,Main Stage 118,60,Eject,30%,ic_altaria_icon,false,false
+44,Mega Altaria,type_dragon,Main Stage 075,60,Altaria Mega Power,---,ic_mega_altaria_icon,false,false
+45,Phanpy,type_ground,Main Stage 015,50,Opportunist,30%,ic_phanpy_icon,false,false
+46,Donphan,type_ground,Main Stage 101,60,Quake,20%,ic_donphan_icon,false,false
+47,Heracross,type_bug,Main Stage 148,70,Crowd Control,5%,ic_heracross_icon,false,false
+47,Mega Heracross,type_bug,Main Stage 210,70,Heracross Mega Power,---,ic_mega_heracross_icon,false,false
+48,Nidoran♀,type_poison,Main Stage 016,40,Opportunist,70%,ic_nidoran_female_icon,false,false
+49,Nidorina,type_poison,Main Stage 095,50,Opportunist,15%,ic_nidorina_icon,false,false
+50,Nidoqueen,type_poison,Main Stage 140,70,Power of 4,5%,ic_nidoqueen_icon,false,false
+51,Nidoran♂,type_poison,Main Stage 017,40,Opportunist,20%,ic_nidoran_male_icon,false,false
+52,Nidorino,type_poison,Main Stage 096,50,Opportunist,45%,ic_nidorino_icon,false,false
+53,Nidoking,type_poison,Main Stage 141,70,Power of 5,10%,ic_nidoking_icon,false,false
+54,Buneary,type_normal,Main Stage 021,40,Opportunist,50%,ic_buneary_icon,false,false
+55,Lopunny,type_normal,Main Stage 052,50,Opportunist,35%,ic_lopunny_icon,false,false
+55,Mega Lopunny,type_normal,Main Stage 060,50,Lopunny Mega Power,---,ic_mega_lopunny_icon,false,false
+56,Klefki,type_steel,Main Stage 018,60,Block Smash,5%,ic_klefki_icon,false,false
+57,Kangaskhan,type_normal,Main Stage 019,50,Power of 4,70%,ic_kangaskhan_icon,false,false
+57,Mega Kangaskhan,type_normal,Main Stage 020,50,Kangaskhan Mega Power,---,ic_mega_kangaskhan_icon,false,false
+58,Azurill,type_fairy,Main Stage 032,30,Opportunist,60%,ic_azurill_icon,false,false
+59,Marill,type_fairy,Main Stage 040,40,Opportunist,60%,ic_marill_icon,false,false
+60,Azumarill,type_fairy,Main Stage 076,60,Opportunist,80%,ic_azumarill_icon,false,false
+61,Vulpix,type_fire,Main Stage 042,40,Opportunist,30%,ic_vulpix_icon,false,false
+62,Ninetales,type_fire,Main Stage 117,70,Block Smash,25%,ic_ninetales_icon,false,false
+63,Zorua,type_dark,Main Stage 050,50,Sinister Power,10%,ic_zorua_icon,false,false
+64,Zoroark,type_dark,Main Stage 129,70,Sinister Power,5%,ic_zoroark_icon,false,false
+65,Litwick,type_ghost,Main Stage 025,40,Astonish,45%,ic_litwick_icon,false,false
+66,Lampent,type_ghost,Main Stage 122,50,Mega Boost,25%,ic_lampent_icon,false,false
+67,Chandelure,type_ghost,Main Stage 134,60,Mega Boost,50%,ic_chandelure_icon,false,false
+68,Chingling,type_psychic,Main Stage 026,40,Opportunist,80%,ic_chingling_icon,false,false
+69,Chimecho,type_psychic,Main Stage 100,60,Barrier Bash,70%,ic_chimecho_icon,false,false
+70,Swirlix,type_fairy,Main Stage 027,60,Opportunist,70%,ic_swirlix_icon,false,false
+71,Slurpuff,type_fairy,Main Stage 086,60,Opportunist,25%,ic_slurpuff_icon,false,false
+72,Volbeat,type_bug,Main Stage 028,50,Crowd Control,30%,ic_volbeat_icon,false,false
+73,Illumise,type_bug,Main Stage 029,50,Swap,30%,ic_illumise_icon,false,false
+74,Sableye,type_dark,Main Stage 024,50,Risk Taker,55%,ic_sableye_icon,false,false
+74,Mega Sableye,type_dark,Main Stage 030,50,Sableye Mega Power,---,ic_mega_sableye_icon,false,false
+75,Surskit,type_bug,Main Stage 035,40,Opportunist,60%,ic_surskit_icon,false,false
+76,Masquerain,type_bug,Main Stage 082,60,Opportunist,70%,ic_masquerain_icon,false,false
+77,Riolu,type_fight,Main Stage 033,40,Heavy Hitter,3%,ic_riolu_icon,false,false
+78,Lucario,type_fight,Expert Stage 003,70,Pummel,1%,ic_lucario_icon,false,false
+78,Mega Lucario,type_fight,Special Stage,70,Lucario Mega Power,---,ic_mega_lucario_icon,false,false
+79,Taillow,type_flying,Main Stage 036,40,Rock Break,70%,ic_taillow_icon,false,false
+80,Swellow,type_flying,Main Stage 073,60,Cloud Clear,70%,ic_swellow_icon,false,false
+81,Slowpoke,type_psychic,Main Stage 031,50,Stabilize,20%,ic_slowpoke_icon,false,false
+82,Slowbro,type_psychic,Main Stage 069,60,Barrier Bash,8%,ic_slowbro_icon,false,false
+82,Mega Slowbro,type_psychic,Main Stage 045,60,Slowbro Mega Power,---,ic_mega_slowbro_icon,false,false
+83,Slowking,type_psychic,Main Stage 132,60,Power of 5,2%,ic_slowking_icon,false,false
+84,Meowth,type_normal,Main Stage 037,40,Mega Boost,15%,ic_meowth_icon,false,false
+85,Persian,type_normal,Main Stage 126,60,Brute Force,5%,ic_persian_icon,false,false
+86,Corsola,type_water,Main Stage 039,50,Eject,70%,ic_corsola_icon,false,false
+87,Croagunk,type_poison,Main Stage 038,50,Prank,60%,ic_croagunk_icon,false,false
+88,Toxicroak,type_poison,Main Stage 146,60,Prank,25%,ic_toxicroak_icon,false,false
+89,Treecko,type_grass,Main Stage 022,50,Sleep Charm,5%,ic_treecko_icon,false,false
+90,Grovyle,type_grass,Main Stage 072,60,Sleep Charm,7%,ic_grovyle_icon,false,false
+91,Sceptile,type_grass,Expert Stage 11,70,Vitality Drain,1%,ic_sceptile_icon,false,false
+92,Torchic,type_fire,Main Stage 014,50,Pyre,5%,ic_torchic_icon,false,false
+93,Combusken,type_fire,Main Stage 066,60,Pyre,7%,ic_combusken_icon,false,false
+94,Blaziken,type_fire,Expert Stage 12,70,Hitting Streak,1%,ic_blaziken_icon,false,false
+94,Mega Blaziken,type_fire,Special Stage,70,Blaziken Mega Power,---,ic_mega_blaziken_icon,false,false
+95,Mudkip,type_water,Main Stage 041,50,Stabilize,10%,ic_mudkip_icon,false,false
+96,Marshtomp,type_water,Main Stage 063,60,Eject,7%,ic_marshtomp_icon,false,false
+97,Swampert,type_water,Expert Stage 13,70,Hitting Streak,1%,ic_swampert_icon,false,false
+98,Lapras,type_water,Main Stage 043,50,Power of 4,10%,ic_lapras_icon,false,false
+99,Minccino,type_normal,Main Stage 046,50,Opportunist,70%,ic_minccino_icon,false,false
+100,Cinccino,type_normal,Main Stage 113,60,Opportunist,40%,ic_cinccino_icon,false,false
+101,Vanillite,type_ice,Main Stage 047,40,Opportunist,50%,ic_vanillite_icon,false,false
+102,Vanillish,type_ice,Main Stage 111,50,Opportunist,65%,ic_vanillish_icon,false,false
+103,Vanilluxe,type_ice,Main Stage 119,60,Freeze,45%,ic_vanilluxe_icon,false,false
+104,Chatot,type_flying,Main Stage 048,60,Flap,35%,ic_chatot_icon,false,false
+105,Axew,type_dragon,Main Stage 049,50,Dragon Talon,15%,ic_axew_icon,false,false
+106,Fraxure,type_dragon,Main Stage 102,60,Dragon Talon,35%,ic_fraxure_icon,false,false
+107,Haxorus,type_dragon,Main Stage 149,70,Dragon Talon,65%,ic_haxorus_icon,false,false
+108,Hawlucha,type_fight,Main Stage 058,50,Rock Break,30%,ic_hawlucha_icon,false,false
+109,Buizel,type_water,Main Stage 056,50,Barrier Bash,60%,ic_buizel_icon,false,false
+110,Floatzel,type_water,Main Stage 145,60,Stabilize,50%,ic_floatzel_icon,false,false
+111,Mawile,type_steel,Main Stage 051,50,Steely Resolve,15%,ic_mawile_icon,false,false
+111,Mega Mawile,type_steel,Main Stage 090,50,Mawile Mega Power,---,ic_mega_mawile_icon,false,false
+112,Gastly,type_ghost,Main Stage 062,50,Spookify,15%,ic_gastly_icon,false,false
+113,Haunter,type_ghost,Main Stage 121,60,Quirky,10%,ic_haunter_icon,false,false
+114,Gengar,type_ghost,Main Stage 125,70,Power of 5,2%,ic_gengar_icon,false,false
+114,Mega Gengar,type_ghost,Main Stage 135,70,Gengar Mega Power,---,ic_mega_gengar_icon,false,false
+115,Cubone,type_ground,Main Stage 074,50,Rock Break,15%,ic_cubone_icon,false,false
+116,Marowak,type_ground,Main Stage 139,60,Damage Streak,20%,ic_marowak_icon,false,false
+117,Dratini,type_dragon,Main Stage 064,50,Opportunist,45%,ic_dratini_icon,false,false
+118,Dragonair,type_dragon,Main Stage 109,60,Dancing Dragons,2%,ic_dragonair_icon,false,false
+119,Dragonite,type_dragon,Expert Stage 10,80,Dancing Dragons,1%,ic_dragonite_icon,false,false
+120,Amaura,type_rock,Main Stage 065,50,Risk Taker,60%,ic_amaura_icon,false,false
+121,Aurorus,type_rock,Main Stage 116,70,Damage Streak,60%,ic_aurorus_icon,false,false
+122,Mienfoo,type_fight,Main Stage 077,50,Hitting Streak,50%,ic_mienfoo_icon,false,false
+123,Mienshao,type_fight,Main Stage 110,60,Hitting Streak,25%,ic_mienshao_icon,false,false
+124,Snorunt,type_ice,Main Stage 078,40,Freeze,40%,ic_snorunt_icon,false,false
+125,Glalie,type_ice,Main Stage 108,60,Chill,15%,ic_glalie_icon,false,false
+125,Mega Glalie,type_ice,Main Stage 120,60,Glalie Mega Power,---,ic_mega_glalie_icon,false,false
+126,Froslass,type_ice,Main Stage 128,60,Mega Boost,50%,ic_froslass_icon,false,false
+127,Gulpin,type_poison,Main Stage 089,50,Opportunist,55%,ic_gulpin_icon,false,false
+128,Swalot,type_poison,Main Stage 124,60,Opportunist,50%,ic_swalot_icon,false,false
+129,Miltank,type_normal,Main Stage 080,60,Opportunist,70%,ic_miltank_icon,false,false
+130,Dedenne,type_electr,Main Stage 085,60,Mega Boost,7%,ic_dedenne_icon,false,false
+131,Cottonee,type_grass,Main Stage 083,40,Swap,60%,ic_cottonee_icon,false,false
+132,Whimsicott,type_grass,Main Stage 138,60,Swap,50%,ic_whimsicott_icon,false,false
+133,Petilil,type_grass,Main Stage 084,40,Swap,50%,ic_petilil_icon,false,false
+134,Lilligant,type_grass,Main Stage 127,60,Sleep Charm,70%,ic_lilligant_icon,false,false
+135,Bronzor,type_steel,Main Stage 091,50,Block Smash,70%,ic_bronzor_icon,false,false
+136,Bronzong,type_steel,Main Stage 133,70,Block Smash,10%,ic_bronzong_icon,false,false
+137,Emolga,type_electr,Main Stage 092,60,Risk Taker,25%,ic_emolga_icon,false,false
+138,Scyther,type_bug,Main Stage 094,70,Swarm,40%,ic_scyther_icon,false,false
+139,Scizor,type_bug,Main Stage 143,70,Swarm,5%,ic_scizor_icon,false,false
+140,Carbink,type_rock,Main Stage 097,60,Damage Streak,60%,ic_carbink_icon,false,false
+141,Throh,type_fight,Main Stage 098,60,Power of 5,20%,ic_throh_icon,false,false
+142,Sawk,type_fight,Main Stage 099,60,Power of 4,20%,ic_swak_icon,false,false
+143,Skarmory,type_steel,Main Stage 144,60,Steely Resolve,35%,ic_skarmory_icon,false,false
+144,Delibird,type_ice,Main Stage 106,50,Chill,25%,ic_delibird_icon,false,false
+145,Stunfisk,type_ground,Main Stage 136,60,Damage Streak,25%,ic_stunfisk_icon,false,false
+146,Misdreavus,type_ghost,Main Stage 107,60,Astonish,55%,ic_misdreavus_icon,false,false
+147,Mismagius,type_ghost,Main Stage 131,60,Astonish,50%,ic_mismagius_icon,false,false
+148,Aerodactyl,type_rock,Main Stage 104,60,Cloud Clear,15%,ic_aerodactyl_icon,false,false
+148,Mega Aerodactyl,type_rock,Main Stage 180,60,Aerodactyl Mega Power,---,ic_mega_aerodactyl_icon,false,false
+149,Articuno,type_ice,Expert Stage 04,70,Power of 4,1%,ic_articuno_icon,false,false
+150,Zapdos,type_electr,Expert Stage 05,70,Power of 4,1%,ic_zapdos_icon,false,false
+151,Moltres,type_fire,Expert Stage 06,70,Power of 4,1%,ic_moltres_icon,false,false
+152,Raikou,type_electr,Expert Stage 16,70,Power of 5,1%,ic_raikou_icon,false,false
+153,Entei,type_fire,Expert Stage 14,70,Power of 5,1%,ic_entei_icon,false,false
+154,Suicune,type_water,Expert Stage 15,70,Power of 5,1%,ic_suicune_icon,false,false
+155,Heatran,type_fire,Expert Stage 17,80,Last-Ditch Effort,1%,ic_heatran_icon,false,false
+156,Xerneas,type_fairy,Expert Stage 18,80,Quirky+,1%,ic_xerneas_icon,false,false
+157,Yvetal,type_dark,Expert Stage 19,80,Power of 5,1%,ic_yvetal_icon,false,false
+158,Mewtwo,type_psychic,Expert Stage 20,80,Swap,1%,ic_mewtwo_icon,false,false
+158,Mega Mewtwo Y,type_psychic,Main Stage 150,80,Mewtwo Mega Power,---,ic_mega_mewtwoy_icon,false,false
+159,Mew,type_psychic,Special Stage,50,Power of 5,10%,ic_mew_icon,false,false
+160,Kyogre,type_water,Special Stage,70,Rock Break,5%,ic_kyogre_icon,false,false
+161,Groudon,type_ground,Special Stage,70,Quake,10%,ic_groudon_icon,false,false
+162,Rayquaza,type_dragon,Main Stage 290,70,Dragon Talon,7%,ic_rayquaza_icon,false,false
+163,Pachirisu,type_electr,Special Stage,50,Mega Boost,15%,ic_pachirisu_icon,false,false
+164,Tropius,type_grass,Special Stage,60,Eject,7%,ic_tropius_icon,false,false
+165,Sigilyph,type_psychic,Special Stage,60,Barrier Bash,8%,ic_sigilyph_icon,false,false
+166,Farfetch'd,type_flying,Special Stage,50,Quirky,3%,ic_farfetchd_icon,false,false
+167,Druddigon,type_dragon,Special Stage,60,Power of 4,9%,ic_druddigon_icon,false,false
+168,Keldeo,type_water,Special Stage,60,Block Smash,15%,ic_keldeo_icon,false,false
+169,Chespin,type_grass,Main Stage 152,50,Damage Streak,5%,ic_chespin_icon,false,false
+170,Quilladin,type_grass,Main Stage 187,60,Paralyze,2%,ic_quilladin_icon,false,false
+171,Chesnaught,type_grass,Expert Stage 22,70,Hitting Streak,1%,ic_chesnaught_icon,false,false
+172,Fennekin,type_fire,Main Stage 156,50,Burn,5%,ic_fennekin_icon,false,false
+173,Braixen,type_fire,Main Stage 189,60,Stabilize+,17%,ic_braixen_icon,false,false
+174,Delphox,type_fire,Expert Stage 23,70,Pyre,1%,ic_delphox_icon,false,false
+175,Froakie,type_water,Main Stage 154,50,Rock Break,5%,ic_froakie_icon,false,false
+176,Frogadier,type_water,Main Stage 185,60,Power of 5,11%,ic_frogadier_icon,false,false
+177,Greninja,type_water,Expert Stage 24,70,Mind Zap,1%,ic_greninja_icon,false,false
+178,Munchlax,type_normal,Main Stage 151,50,Risk Taker,55%,ic_munchlax_icon,false,false
+179,Snorlax,type_normal,Main Stage 183,70,Brute Force,2%,ic_snorlax_icon,false,false
+180,Onix,type_rock,Main Stage 153,50,Eject,25%,ic_onix_icon,false,false
+181,Steelix,type_steel,Main Stage 190,70,Steely Resolve,22%,ic_steelix_icon,false,false
+182,Smeargle,type_normal,Main Stage 155,30,Block Smash,65%,ic_smeargle_icon,false,false
+183,Larvesta,type_bug,Main Stage 157,50,Cloud Clear,40%,ic_larvesta_icon,false,false
+184,Volcarona,type_bug,Main Stage 206,70,Mega Boost,33%,ic_volcarona_icon,false,false
+185,Feebas,type_water,Main Stage 158,30,Opportunist,70%,ic_feebas_icon,false,false
+186,Milotic,type_water,Main Stage 165,70,Stabilize+,3%,ic_milotic_icon,false,false
+187,Poochyena,type_dark,Main Stage 159,30,Counterattack,67%,ic_poochyena_icon,false,false
+188,Mightyena,type_dark,Main Stage 173,60,Sinister Power,7%,ic_mightyena_icon,false,false
+189,Trubbish,type_poison,Main Stage 160,50,Mega Boost,44%,ic_trubbish_icon,false,false
+190,Garbodor,type_poison,Main Stage 194,60,Risk Taker,45%,ic_garbodor_icon,false,false
+191,Hippopotas,type_ground,Main Stage 161,50,Quake,30%,ic_hippopotas_icon,false,false
+192,Hippowdon,type_ground,Main Stage 201,60,Last-Ditch Effort,65%,ic_hippowdon_icon,false,false
+193,Bagon,type_dragon,Main Stage 162,50,Power of 4,17%,ic_bagon_icon,false,false
+194,Shelgon,type_dragon,Main Stage 188,60,Damage Streak,7%,ic_shelgon_icon,false,false
+195,Salamence,type_flying,Main Stage 209,80,Hitting Streak,2%,ic_salamence_icon,false,false
+196,Pancham,type_fight,Main Stage 163,50,Mega Boost,20%,ic_pancham_icon,false,false
+197,Pangoro,type_fight,Main Stage 193,60,Pummel,7%,ic_pangoro_icon,false,false
+198,Yamask,type_ghost,Main Stage 164,50,Quirky,25%,ic_yamask_icon,false,false
+199,Cofagrigus,type_ghost,Main Stage 196,60,Prank,55%,ic_cofagrigus_icon,false,false
+200,Solosis,type_psychic,Main Stage 166,40,Barrier Bash,36%,ic_solosis_icon,false,false
+201,Duosion,type_psychic,Main Stage 182,50,Swap,12%,ic_duosin_icon,false,false
+202,Reuniclus,type_psychic,Main Stage 197,60,Swat,9%,ic_reuniclus_icon,false,false
+203,Honedge,type_steel,Main Stage 167,50,Steely Resolve,22%,ic_honedge_icon,false,false
+204,Doublade,type_steel,Main Stage 195,60,Hitting Streak,12%,ic_doublade_icon,false,false
+205,Aegislash,type_steel,Main Stage 207,70,Counterattack,6%,ic_aegislash_icon,false,false
+206,Drilbur,type_ground,Main Stage 168,50,Damage Streak,45%,ic_drilbur_icon,false,false
+207,Excadrill,type_ground,Main Stage 205,70,Power of 5,1%,ic_excadrill_icon,false,false
+208,Larvitar,type_rock,Main Stage 169,50,Risk Taker,24%,ic_larvitar_icon,false,false
+209,Pupitar,type_rock,Main Stage 179,60,Mega Boost,33%,ic_pupitar_icon,false,false
+210,Tyranitar,type_rock,Main Stage 200,80,Eject,3%,ic_tyranitar_icon,false,false
+211,Shuppet,type_ghost,Main Stage 170,40,Mind Zap,7%,ic_shuppet_icon,false,false
+212,Banette,type_ghost,Main Stage 177,60,Mega Boost,6%,ic_banette_icon,false,false
+212,Mega Banette,type_ghost,Special Stage,60,Banette Mega Power,---,ic_mega_banette_icon,false,false
+213,Rufflet,type_flying,Main Stage 171,50,Flap,40%,ic_rufflet_icon,false,false
+214,Braviary,type_flying,Main Stage 204,70,Sky Blast,5%,ic_braviary_icon,false,false
+215,Bergmite,type_ice,Main Stage 172,50,Freeze,13%,ic_bergmite_icon,false,false
+216,Avalugg,type_ice,Main Stage 203,70,Barrier Bash,11%,ic_avalugg_icon,false,false
+217,Snubbull,type_fairy,Main Stage 174,50,Crowd Control,31%,ic_snubbull_icon,false,false
+218,Granbull,type_fairy,Main Stage 184,60,Heavy Hitter,66%,ic_granbull_icon,false,false
+219,Lickitung,type_normal,Main Stage 175,50,Last-Ditch Effort,12%,ic_lickitung_icon,false,false
+220,Lickilicky,type_normal,Main Stage 192,70,Damage Streak,29%,ic_lickilicky_icon,false,false
+221,Timburr,type_fight,Main Stage 176,50,Block Smash,21%,ic_timburr_icon,false,false
+222,Gurdurr,type_fight,Main Stage 186,60,Cloud Clear,33%,ic_gurdurr_icon,false,false
+223,Conkeldurr,type_fight,Main Stage 198,70,Last-Ditch Effort,19%,ic_conkeldurr_icon,false,false
+224,Tangela,type_grass,Main Stage 178,60,Stabilize,52%,ic_tangela_icon,false,false
+225,Tangrowth,type_grass,Main Stage 199,70,Cloud Clear,19%,ic_tangrowth_icon,false,false
+226,Genesect,type_bug,Expert Stage 21,80,Crowd Control,1%,ic_genesect_icon,false,false
+227,Carvanha,type_dark,Special Stage,50,Mega Boost,5%,ic_carvanha_icon,false,false
+228,Sharpedo,type_dark,Special Stage,60,Eject,7%,ic_sharpedo_icon,false,false
+228,Mega Sharpedo,type_dark,Special Stage,60,Sharpedo Mega Power,---,ic_mega_sharpedo_icon,false,false
+229,Spinda,type_normal,Special Stage,50,Counterattack,3%,ic_spinda_icon,false,false
+230,Cherubi,type_grass,Special Stage,40,Quirky,11%,ic_cherubi_icon,false,false
+231,Cherrim,type_grass,Special Stage,60,Quirky+,5%,ic_cherrim_icon,false,false
+232,Celebi,type_psychic,Special Stage,50,Stabilize,10%,ic_celebi_icon,false,false
+233,Pinsir,type_bug,Special Stage,70,Power of 4,3%,ic_pinsir_icon,false,false
+234,Sneasel,type_dark,Main Stage 181,60,Prank,77%,ic_sneasel_icon,false,false
+235,Weavile,type_dark,Main Stage 202,70,Astonish,8%,ic_weavile_icon,false,false
+236,Regirock,type_rock,Special Stage,70,Last-Ditch Effort,3%,ic_regirock_icon,false,false
+237,Regice,type_ice,Special Stage,70,Hitting Streak,10%,ic_regice_icon,false,false
+238,Registeel,type_steel,Special Stage,70,Paralyze,1%,ic_registeel_icon,false,false
+239,Girafarig,type_psychic,Special Stage,60,Swat,8%,ic_girafarig_icon,false,false
+240,Kecleon,type_normal,Special Stage,60,Mind Zap,7%,ic_kecleon_icon,false,false
+241,Relicanth,type_rock,Special Stage,60,Mega Boost,8%,ic_relicanth_icon,false,false
+242,Shuckle,type_bug,Special Stage,60,Risk taker,10%,ic_shuckle_icon,false,false
+243,Spiritomb,type_ghost,Special Stage,60,Spookify,5%,ic_spiritomb_icon,false,false
+244,Shaymin,type_grass,Special Stage,70,Sleep Charm,20%,ic_shaymin_icon,false,false
+245,Victini,type_psychic,Special Stage,80,Hitting Streak,2%,ic_victini_icon,false,false
+246,Blitzle,type_electr,Main Stage 191,40,Rock Break,62%,ic_blitzle_icon,false,false
+247,Zebstrika,type_electr,Main Stage 208,60,Block Smash,28%,ic_zebstrika_icon,false,false
+248,Giratina,type_ghost,Special Stage,80,Power of 4+,1-100%,ic_giratina_icon,false,false
+249,Dialga,type_steel,Special Stage,80,Block Smash+,8%,ic_dialga_icon,false,false
+250,Palkia,type_water,Special Stage,80,Barrier Bash+,8%,ic_palkia_icon,false,false
+251,Electrike,type_electr,Special Stage,40,Hitting Streak,8%,ic_electrike_icon,false,false
+252,Manectric,type_electr,Special Stage,60,Hitting Streak,5%,ic_manectric_icon,false,false
+252,Mega Manectric,type_electr,Special Stage,60,Manectric Mega Power,---,ic_mega_manectric_icon,false,false
+253,Stantler,type_normal,Special Stage,60,Sleep Charm,25%,ic_stantler_icon,false,false
+254,Darumaka,type_fire,Special Stage,50,Stabilize,10%,ic_darumaka_icon,false,false
+255,Darmanitan,type_fire,Special Stage,60,Burn,5%,ic_darmanitan_icon,false,false
+256,Phione,type_water,Special Stage,60,Crowd Control,40%,ic_phione_icon,false,false
+257,Manaphy,type_water,Special Stage,70,Swap+,12%,ic_manaphy_icon,false,false
+258,Snivy,type_grass,Unknown,50,Paralyze,Unknown,ic_snivy_icon,false,false
+259,Servine,type_grass,Unknown,0,Unknown,Unknown,ic_servine_icon,false,false
+260,Serperior,type_grass,Unknown,0,Unknown,Unknown,ic_serperior_icon,false,false
+261,Tepig,type_fire,Special Stage,50,Rock Break,5%,ic_tepig_icon,false,false
+262,Pignite,type_fire,Special Stage,60,Heavy Hitter,3%,ic_pignite_icon,false,false
+263,Emboar,type_fire,Special Stage,70,Barrier Bash,1%,ic_emboar_icon,false,false
+264,Oshawott,type_water,Unknown,0,Unknown,Unknown,ic_oshawott_icon,false,false
+265,Dewott,type_water,Unknown,0,Unknown,Unknown,ic_dewott_icon,false,false
+266,Samurott,type_water,Unknown,0,Unknown,Unknown,ic_samurott_icon,false,false
+267,Wynaut,type_psychic,Special Stage,30,Stabilize,40%,ic_wynaut_icon,false,false
+268,Wobbuffet,type_psychic,Special Stage,60,Counterattack,1%,ic_wobbuffet_icon,false,false
+269,Torkoal,type_fire,Special Stage,60,Quake,20%,ic_torkoal_icon,false,false
+270,Zangoose,type_normal,Special Stage,60,Hitting Streak,8%,ic_zangoose_icon,false,false
+271,Seviper,type_poison,Special Stage,60,Eject,15%,ic_seviper_icon,false,false
+272,Luvdisc,type_water,Special Stage,50,Power of 4,20%,ic_luvdisc_icon,false,false
+273,Jirachi,type_steel,Special Stage,70,Mega Boost+,7%,ic_jirachi_icon,false,false
+274,Arceus,type_normal,Special Stage,90,Double Normal,3%,ic_arceus_icon,false,false
+275,Cresselia,type_psychic,Special Stage,80,Barrier Bash+,1-100%,ic_cresselia_icon,false,false
+276,Furfrou,type_normal,Special Stage,60,Quirky+,10%,ic_furfrou_icon,false,false
+277,Staryu,type_water,Special Stage,50,Prank,8%,ic_staryu_icon,false,false
+278,Starmie,type_water,Special Stage,70,Power of 5,6%,ic_starmie_icon,false,false
+279,Gible,type_ground,Special Stage,50,Mega Boost,5%,ic_gible_icon,false,false
+280,Gabite,type_ground,Special Stage,60,Block Smash,10%,ic_gabite_icon,false,false
+281,Garchomp,type_ground,Special Stage,80,Dragon Talon,15%,ic_garchomp_icon,false,false
+281,Mega Garchomp,type_ground,Special Stage,80,Garchomp Mega Power,---,ic_mega_garchomp_icon,false,false
+282,Scatterbug,type_bug,Main Stage 218,30,Mega Boost,9%,ic_scatterbug_icon,false,false
+283,Spewpa,type_bug,Main Stage 219,40,Eject,11%,ic_spewpa_icon,false,false
+284,Vivillon,type_bug,Main Stage 220,60,Astonish,12%,ic_vivillon_icon,false,false
+285,Starly,type_flying,Main Stage 211,30,Crowd Control,11%,ic_starly_icon,false,false
+286,Staravia,type_flying,Main Stage 215,50,Mind Zap,11%,ic_staravia_icon,false,false
+287,Staraptor,type_flying,Main Stage 224,60,Stabilize+,11%,ic_staraptor_icon,false,false
+288,Goomy,type_dragon,Main Stage 213,50,Mega Boost,6%,ic_goomy_icon,false,false
+289,Sliggoo,type_dragon,Main Stage 229,60,Barrier Bash,13%,ic_sliggoo_icon,false,false
+290,Goodra,type_dragon,Expert Stage 30,80,Eject+,1%,ic_goodra_icon,false,false
+291,Gothita,type_psychic,Main Stage 212,40,Cloud Clear,15%,ic_gothita_icon,false,false
+292,Gothorita,type_psychic,Main Stage 216,50,Sleep Charm,15%,ic_gothorita_icon,false,false
+293,Gothitelle,type_psychic,Main Stage 228,60,Quirky+,9%,ic_gothitelle_icon,false,false
+294,Mime Jr.,type_psychic,Main Stage 214,50,Quirky,10%,ic_mime_jr_icon,false,false
+295,Mr. Mime,type_psychic,Main Stage 226,60,Prank,12%,ic_mr_mime_icon,false,false
+296,Ralts,type_fairy,Main Stage 217,30,Prank,1%,ic_ralts_icon,false,false
+297,Kirlia,type_fairy,Main Stage 223,40,Eject,2%,ic_kirlia_icon,false,false
+298,Gardevoir,type_fairy,Main Stage 238,70,Swap,6%,ic_gardevoir_icon,false,false
+299,Gallade,type_fight,Expert Stage 29,70,Block Smash+,1%,ic_gallade_icon,false,false
+300,Cobalion,type_steel,Expert Stage 27,70,Power of 4+,1%,ic_cobalion_icon,false,false
+301,Terrakion,type_rock,Expert Stage 25,70,Power of 4+,1%,ic_terrakion_icon,false,false
+302,Virizion,type_grass,Expert Stage 26,70,Power of 4+,1%,ic_virizion_icon,false,false
+303,Darkrai,type_dark,Special Stage,80,Sleep Charm,1-100%,ic_darkrai_icon,false,false
+304,Carnivine,type_grass,Special Stage,60,Risk Taker,5%,ic_carnivine_icon,false,false
+305,Lugia,type_flying,Special Stage,80,Eject+,8%,ic_lugia_icon,false,false
+306,Ho-Oh,type_fire,Special Stage,80,Power of 5+,3%,ic_hooh_icon,false,false
+307,Diancie,type_fairy,Special Stage,70,Barrier Bash+,3%,ic_diancie_icon,false,false
+308,Skitty,type_normal,Main Stage 222,30,Mega Boost+,3%,ic_skitty_icon,false,false
+309,Delcatty,type_normal,Main Stage 236,50,Prank,14%,ic_delcatty_icon,false,false
+310,Klink,type_steel,Main Stage 225,50,Damage Streak,10%,ic_klink_icon,false,false
+311,Klang,type_steel,Main Stage 227,60,Power of 5,9%,ic_klang_icon,false,false
+312,Klinklang,type_steel,Main Stage 239,70,Damage Streak,3%,ic_klinklang_icon,false,false
+313,Meditite,type_fight,Main Stage 221,40,Astonish,6%,ic_meditite_icon,false,false
+314,Medicham,type_fight,Main Stage 230,60,Mega Boost,3%,ic_medicham_icon,false,false
+314,Mega Medicham,type_fight,Main Stage 240,60,Medicham Mega Power,---,ic_mega_medicham_icon,false,false
+315,Latias,type_dragon,Special Stage,80,Swap,1-100%,ic_latias_icon,false,false
+315,Mega Latias,type_dragon,Special Stage,80,Latias Mega Power,---,ic_mega_latias_icon,false,false
+316,Latios,type_dragon,Special Stage,80,Counterattack,1-100%,ic_latios_icon,false,false
+317,Zubat,type_poison,Special Stage,30,Paralyze,7%,ic_zubat_icon,false,false
+318,Golbat,type_poison,Special Stage,60,Power of 4,7%,ic_golbat_icon,false,false
+319,Crobat,type_poison,Special Stage,70,Poisonous Mist,7%,ic_crobat_icon,false,false
+320,Pumpkaboo,type_ghost,Special Stage,50,Risk Taker,5%,ic_pumpkaboo_icon,false,false
+321,Gourgeist,type_ghost,Special Stage,60,Eject,5%,ic_gourgeist_icon,false,false
+322,Duskull,type_ghost,Special Stage,40,Block Smash,3%,ic_duskull_icon,false,false
+323,Dusclops,type_ghost,Special Stage,60,Sleep Charm,11%,ic_dusclops_icon,false,false
+324,Dusknoir,type_ghost,Special Stage,70,Last-Ditch Effort,8%,ic_dusknoir_icon,false,false
+325,Grimer,type_poison,Main Stage 231,50,Crowd Control,9%,ic_grimer_icon,false,false
+326,Muk,type_poison,Main Stage 234,70,Power of 4+,4%,ic_muk_icon,false,false
+327,Wingull,type_flying,Main Stage 232,40,Cloud Clear,9%,ic_wingull_icon,false,false
+328,Pelipper,type_flying,Main Stage 237,60,Power of 4,2%,ic_pelipper_icon,false,false
+329,Bouffalant,type_normal,Main Stage 233,60,Rock Break,19%,ic_bouffalant_icon,false,false
+330,Pawniard,type_dark,Main Stage 235,50,Block Smash,3%,ic_pawniard_icon,false,false
+331,Bisharp,type_dark,Expert Stage 28,70,Rock Break+,1%,ic_bisharp_icon,false,false
+332,Heatmor,type_fire,Special Stage,60,Eject,3%,ic_heatmor_icon,false,false
+333,Durant,type_bug,Special Stage,60,Block Smash,3%,ic_durant_icon,false,false
+334,Maractus,type_grass,Special Stage,60,Barrier Bash,3%,ic_maractus_icon,false,false
+335,Dunsparce,type_normal,Special Stage,40,Mega Boost+,3%,ic_dunsparce_icon,false,false
+336,Qwilfish,type_water,Special Stage,50,Paralyze,3%,ic_qwilfish_icon,false,false
+337,Tornadus,type_flying,Special Stage,70,Power of 5+,39%,ic_tornadus,false,false
+338,Thundurus,type_electr,Special Stage,70,Power of 5+,39%,ic_thundurus,false,false
+339,Landorus,type_ground,Special Stage,80,Power of 5+,39%,ic_landorus,false,false
+340,Budew,type_grass,Main Stage 241,40,Mega Boost+,12%,ic_budew,false,false
+341,Roselia,type_grass,Main Stage 248,60,Rock Break,4%,ic_roselia,false,false
+342,Roserade,type_grass,Main Stage 250,70,Stabilize+,23%,ic_roserade,false,false
+343,Machop,type_fight,Main Stage 242,50,Pummel,23%,ic_machop,false,false
+344,Machoke,type_fight,Main Stage 247,60,Stabilize,19%,ic_machoke,false,false
+345,Machamp,type_fight,Special Stage,70,Eject,12%,ic_machamp,false,false
+346,Shinx,type_electr,Main Stage 243,30,Counterattack,22%,ic_shinx,false,false
+347,Luxio,type_electr,Main Stage 245,50,Block Smash,21%,ic_luxio,false,false
+348,Luxray,type_electr,Expert Stage 31,70,Cloud Clear+,1%,ic_luxray,false,false
+349,Whismur,type_normal,Main Stage 244,30,Paralyze,12%,ic_whismur,false,false
+350,Loudred,type_normal,Main Stage 257,50,Spookify,15%,ic_loudred,false,false
+351,Exploud,type_normal,Main Stage 259,60,Eject+,13%,ic_exploud,false,false
+352,Spritzee,type_fairy,Main Stage 246,50,Mega Boost+,17%,ic_spritzee,false,false
+353,Aromatisse,type_fairy,Main Stage 249,60,Power of 4,19%,ic_aromatisse,false,false
+354,Regigigas,type_normal,Special Stage,90,Hyper Punch,9%,ic_regigigas,false,false
+355,Deoxys,type_psychic,Main Stage 260,80,Swap+,9%,ic_deoxys,false,false
+356,Turtwig,type_grass,Unknown,0,Unknown,Unknown,ic_turtwig,false,false
+357,Grotle,type_grass,Unknown,0,Unknown,Unknown,ic_grotle,false,false
+358,Torterra,type_grass,Unknown,0,Unknown,Unknown,ic_torterra,false,false
+359,Chimchar,type_fire,Main Stage 252,50,Prank,6%,ic_chimchar,false,false
+360,Monferno,type_fire,Main Stage 254,60,Swap,12%,ic_monferno,false,false
+361,Infernape,type_fire,Special Stage,70,Hitting Streak,15%,ic_infernape,false,false
+362,Piplup,type_water,Unknown,0,Unknown,Unknown,ic_piplup,false,false
+363,Prinplup,type_water,Unknown,0,Unknown,Unknown,ic_prinplup,false,false
+364,Empoleon,type_water,Unknown,0,Unknown,Unknown,ic_empoleon,false,false
+365,Inkay,type_dark,Main Stage 251,40,Mega Boost+,7%,ic_inkay,false,false
+366,Malamar,type_dark,Expert Stage 32,70,Quirky+,1%,ic_malamar,false,false
+367,Skiddo,type_grass,Main Stage 253,50,Barrier Bash,20%,ic_skiddo,false,false
+368,Gogoat,type_grass,Main Stage 256,70,Quirky+,14%,ic_gogoat,false,false
+369,Joltik,type_bug,Main Stage 255,50,Mega Boost,21%,ic_joltik,false,false
+370,Galvantula,type_bug,Main Stage 258,60,Paralyze,14%,ic_galvantula,false,false
+371,Fletchling,type_flying,Special Stage,40,Counterattack,15%,ic_fletchling,false,false
+372,Fletchinder,type_fire,Special Stage,50,Swap+,20%,ic_fletchinder,false,false
+373,Talonflame,type_fire,Special Stage,60,Block Smash+,5%,ic_talonflame,false,false
+374,Numel,type_ground,Special Stage,50,Burn,10%,ic_numel,false,false
+375,Camerupt,type_ground,Special Stage,70,Power of 4,30%,ic_camerupt,false,false
+376,Roggenrola,type_rock,Special Stage,40,Last-Ditch Effort,10%,ic_roggenrola,false,false
+377,Boldore,type_rock,Special Stage,50,Heavy Hitter,20%,ic_boldore,false,false
+378,Gigalith,type_rock,Special Stage,70,Block Smash+,19%,ic_gigalith,false,false
+379,Rattata,type_normal,Main Stage 276,30,Prank,8%,ic_rattata,false,false
+380,Raticate,type_normal,Main Stage 281,60,Counterattack,14%,ic_raticate,false,false
+381,Snover,type_ice,Main Stage 286,50,Block Smash,11%,ic_snover,false,false
+382,Abomasnow,type_ice,Main Stage 289,60,Heavy Hitter,6%,ic_abomasnow,false,false
+383,Flabébé,type_fairy,Main Stage 262,40,Quirky,5%,ic_flabebe,false,false
+384,Floette,type_fairy,Main Stage 273,50,Cloud Clear,8%,ic_floette,false,false
+385,Florges,type_fairy,Main Stage 280,70,Swap+,6%,ic_florges,false,false
+386,Munna,type_psychic,Main Stage 265,40,Block Smash,20%,ic_munna,false,false
+387,Musharna,type_psychic,Main Stage 267,60,Mind Zap,6%,ic_musharna,false,false
+388,Doduo,type_flying,Main Stage 294,50,Block Smash,5%,ic_doduo,false,false
+389,Dodrio,type_flying,Main Stage 296,60,Risk Taker,9%,ic_dodrio,false,false
+390,Alomomola,type_water,Main Stage 288,60,Swap,20%,ic_alomomola,false,false
+391,Aron,type_steel,Main Stage 261,50,Rock Break,8%,ic_aron,false,false
+392,Lairon,type_steel,Main Stage 268,60,Mega Boost,8%,ic_lairon,false,false
+393,Aggron,type_steel,Main Stage 270,70,Eject,3%,ic_aggron,false,false
+394,Chinchou,type_electr,Main Stage 282,50,Astonish,14%,ic_chinchou,false,false
+395,Lanturn,type_electr,Main Stage 287,60,Cloud Clear+,9%,ic_lanturn,false,false
+396,Vullaby,type_dark,Main Stage 266,50,Barrier Bash,5%,ic_vullaby,false,false
+397,Mandibuzz,type_dark,Main Stage 274,70,Hitting Streak,6%,ic_mandibuzz,false,false
+398,Porygon,type_normal,Main Stage 278,50,Barrier Bash+,20%,ic_porygon,false,false
+399,Porygon2,type_normal,Main Stage 297,70,Crowd Power,15%,ic_porygon2,false,false
+400,Porygon-Z,type_normal,Expert Stage 35,70,Shock Attack,1%,ic_porygonz,false,false
+401,Spinarak,type_bug,Main Stage 275,30,Rock Break,8%,ic_spinarak,false,false
+402,Ariados,type_bug,Main Stage 277,50,Power of 5,6%,ic_ariados,false,false
+403,Tympole,type_water,Main Stage 271,40,Astonish,8%,ic_tympole,false,false
+404,Palpitoad,type_water,Main Stage 283,50,Damage Streak,14%,ic_palpitoad,false,false
+405,Seismitoad,type_water,Main Stage 292,70,Last-Ditch Effort,4%,ic_seismitoad,false,false
+406,Nosepass,type_rock,Main Stage 272,50,Block Smash,11%,ic_nosepass,false,false
+407,Probopass,type_rock,Main Stage 284,70,Stabilize+,13%,ic_probopass,false,false
+408,Makuhita,type_fight,Main Stage 263,30,Barrier Bash,8%,ic_makuhita,false,false
+409,Hariyama,type_fight,Main Stage 264,60,Stabilize+,9%,ic_hariyama,false,false
+410,Igglybuff,type_fairy,Main Stage 285,30,Sleep Charm,8%,ic_igglybuff,false,false
+411,Jigglypuff,type_fairy,Main Stage 293,40,Barrier Bash,14%,ic_jigglypuff,false,false
+412,Wigglytuff,type_fairy,Main Stage 299,60,Stabilize+,4%,ic_wigglytuff,false,false
+413,Swinub,type_ice,Main Stage 291,30,Rock break,12%,ic_swinub,false,false
+414,Piloswine,type_ice,Main Stage 295,60,Stabilize,15%,ic_piloswine,false,false
+415,Mamoswine,type_ice,Expert Stage 33,70,Barrier Bash+,1%,ic_mamoswine,false,false
+416,Stunky,type_poison,Main Stage 279,50,Rock Break,6%,ic_stunky,false,false
+417,Skuntank,type_poison,Main Stage 298,60,Last-Ditch Effort,9%,ic_skuntank,false,false
+418,Gligar,type_ground,Main Stage 269,60,Cloud Clear,10%,ic_gligar,false,false
+419,Gliscor,type_ground,Expert Stage 34,70,Rock Break+,1%,ic_gliscor,false,false
+420,Reshiram,type_fire,Special Stage,80,Barrier Bash+,1%,ic_reshiram,false,false
+421,Zekrom,type_electr,Special Stage,80,Block Smash+,1%,ic_zekrom,false,false
+422,Kyurem,type_ice,Special Stage,80,Power of 5+,1-100%,ic_kyurem,false,false
+168,Keldeo-R,type_fight,Special Stage,60,Power of 4+,1-100%,ic_keldeo_r,false,false
+162,Mega Rayquaza,type_dragon,Main Stage 300,70,Rayquaza Mega Power,---,ic_mega_rayquaza,false,false
+158,Mega Mewtwo X,type_fight,Main Stage 350,80,Mewtwo X Mega Power,---,ic_mega_mewtwo_x,false,false
+423,Weedle,type_poison,Main Stage 337,30,Mind Zap,11%,ic_weedle,false,false
+424,Kakuna,type_poison,Main Stage 341,40,Last-Ditch Effort,23%,ic_kakuna,false,false
+425,Beedrill,type_poison,Special Stage,60,Block Smash,8%,ic_beedrill,false,false
+426,Sentret,type_normal,Main Stage 338,30,Crowd Control,11%,ic_sentret,false,false
+427,Furret,type_normal,Main Stage 339,60,Astonish,9%,ic_furret,false,false
+428,Exeggcute,type_grass,Main Stage 323,50,Crowd Control,1%,ic_exeggcute,false,false
+429,Exeggutor,type_grass,Main Stage 348,70,Cloud Clear+,20%,ic_exeggutor,false,false
+430,Finneon,type_water,Main Stage 326,50,Quirky,15%,ic_finneon,false,false
+431,Lumineon,type_water,Main Stage 335,60,Quirky+,10%,ic_lumineon,false,false
+432,Pansage,type_grass,Main Stage 315,50,Counterattack,23%,ic_pansage,false,false
+433,Simisage,type_grass,Main Stage 334,60,Astonish,9%,ic_simisage,false,false
+434,Pansear,type_fire,Main Stage 301,50,Counterattack,23%,ic_pansear,false,false
+435,Simisear,type_fire,Main Stage 322,60,Paralyze,9%,ic_simisear,false,false
+436,Panpour,type_water,Main Stage 312,50,Counterattack,23%,ic_panpour,false,false
+437,Simipour,type_water,Main Stage 331,60,Quake,9%,ic_simipour,false,false
+438,Growlithe,type_fire,Main Stage 313,50,Risk Taker,11%,ic_growlithe,false,false
+439,Arcanine,type_fire,Expert Stage 38,70,Power of 4+,1%,ic_arcanine,false,false
+440,Magnemite,type_electr,Main Stage 325,50,Barrier Bash,30%,ic_magnemite,false,false
+441,Magneton,type_electr,Main Stage 328,60,Crowd Control,17%,ic_magneton,false,false
+442,Magnezone,type_electr,Main Stage 330,70,Power of 4+,5%,ic_magnezone,false,false
+443,Murkrow,type_dark,Main Stage 307,60,Stabilize,5%,ic_murkrow,false,false
+444,Honchkrow,type_dark,Expert Stage 37,70,Power of 5+,1%,ic_honchkrow,false,false
+445,Spheal,type_ice,Main Stage 314,40,Crowd Control,20%,ic_spheal,false,false
+446,Sealeo,type_ice,Main Stage 317,60,Eject,19%,ic_sealeo,false,false
+447,Walrein,type_ice,Expert Stage 36,70,Rock Break+,1%,ic_walrein,false,false
+448,Skorupi,type_poison,Main Stage 343,50,Counterattack,21%,ic_skorupi,false,false
+449,Drapion,type_poison,Main Stage 347,70,Power of 5+,16%,ic_drapion,false,false
+450,Golett,type_ground,Main Stage 324,50,Heavy Hitter,14%,ic_golett,false,false
+451,Golurk,type_ground,Main Stage 340,60,Block Smash+,21%,ic_golurk,false,false
+452,Tyrunt,type_rock,Main Stage 316,50,Rock Break,21%,ic_tyrunt,false,false
+453,Tyrantrum,type_rock,Main Stage 320,70,Dragon Talon,5%,ic_tyrantrum,false,false
+454,Paras,type_bug,Main Stage 302,40,Paralyze,8%,ic_paras,false,false
+455,Parasect,type_bug,Main Stage 306,60,Sleep Charm,20%,ic_parasect,false,false
+456,Teddiursa,type_normal,Main Stage 329,50,Swap,20%,ic_teddiursa,false,false
+457,Ursaring,type_normal,Main Stage 342,70,Risk Taker,10%,ic_ursaring,false,false
+458,Spoink,type_psychic,Main Stage 304,50,Paralyze,5%,ic_spoink,false,false
+459,Grumpig,type_psychic,Main Stage 309,60,Stabilize+,12%,ic_grumpig,false,false
+460,Koffing,type_poison,Main Stage 305,50,Barrier Bash,14%,ic_koffing,false,false
+461,Weezing,type_poison,Main Stage 310,60,Quirky+,14%,ic_weezing,false,false
+462,Sandile,type_ground,Main Stage 327,40,Prank,21%,ic_sandile,false,false
+463,Krokorok,type_ground,Main Stage 346,50,Astonish,30%,ic_krokorok,false,false
+464,Krookodile,type_ground,Main Stage 349,70,Risk Taker,5%,ic_krookodile,false,false
+465,Phantump,type_ghost,Main Stage 303,50,Stabilize,19%,ic_phantump,false,false
+466,Trevenant,type_ghost,Main Stage 308,60,Swap+,18%,ic_trevenant,false,false
+467,Mankey,type_fight,Main Stage 319,50,Crowd Control,15%,ic_mankey,false,false
+468,Primeape,type_fight,Main Stage 344,60,Power of 5+,14%,ic_primeape,false,false
+469,Spearow,type_flying,Main Stage 311,30,Last-Ditch Effort,12%,ic_spearow,false,false
+470,Fearow,type_flying,Main Stage 318,60,Rock Break+,10%,ic_fearow,false,false
+471,Smoochum,type_ice,Main Stage 333,50,Quirky,11%,ic_smoochum,false,false
+472,Jynx,type_ice,Main Stage 345,60,Barrier Bash+,21%,ic_jynx,false,false
+473,Omanyte,type_water,Main Stage 336,50,Sleep Charm,9%,ic_omanyte,false,false
+474,Omastar,type_water,Special Stage,60,Rock Break+,9%,ic_omastar,false,false
+475,Kabuto,type_rock,Main Stage 332,50,Rock Break+,7%,ic_kabuto,false,false
+476,Kabutops,type_rock,Special Stage,60,Barrier Bash+,9%,ic_kabutops,false,false
+477,Magikarp,type_water,Main Stage 321,30,Swap++,5%,ic_magikarp,false,false
+478,Gyarados,type_water,Special Stage,70,Power of 5+,9%,ic_gyarados,false,false
+479,Oddish,type_grass,Special Stage,50,Mega Boost,5%,ic_oddish,false,false
+480,Gloom,type_grass,Special Stage,60,Paralyze,5%,ic_gloom,false,false
+481,Vileplume,type_grass,Special Stage,70,Power of 5+,23%,ic_vileplume,false,false
+482,Bellossom,type_grass,Unknown,0,Unknown,---,ic_bellossom,false,false
+483,Tauros,type_normal,Special Stage,70,Quake,15%,ic_tauros,false,false
+484,Abra,type_psychic,Special Stage,50,Rock Break,5%,ic_abra,false,false
+485,Kadabra,type_psychic,Special Stage,60,Counterattack,18%,ic_kadabra,false,false
+486,Alakazam,type_psychic,Special Stage,70,Risk Taker,27%,ic_alakazam,false,false
+6,Mega Charizard X,type_dragon,Special Stage,60,Charizard X Mega Power,---,ic_mega_charizard_x,false,false
+97,Mega Swampert,type_water,Special Stage,70,Swampert Mega Power,---,ic_mega_swampert,false,false
+244,Shaymin (SkyForm),type_flying,Special Stage,70,Power of 4+,20%,ic_shaymin_skyform,false,false
+307,Mega Diancie,type_fairy,Special Stage,70,Diancie Mega Power,---,ic_mega_diancie,false,false
+316,Mega Latios,type_dragon,Special Stage,80,Latios Mega Power,---,ic_mega_latios,false,false
+487,Noibat,type_flying,Special Stage,30,Mega Boost,14%,ic_noibat,false,false
+488,Noivern,type_flying,Special Stage,70,Cloud Clear++,5%,ic_noivern,false,false
+489,Houndour,type_fire,Special Stage,50,Mega Boost,12%,ic_houndour,false,false
+490,Houndoom,type_fire,Special Stage,70,Risk Taker,29%,ic_houndoom,false,false
+491,Pineco,type_bug,Special Stage,40,Counterattack,18%,ic_pineco,false,false
+492,Forretress,type_bug,Special Stage,60,Rock Break+,18%,ic_forretress,false,false
+493,Hoothoot,type_flying,Special Stage,30,Swap,11%,ic_hoothoot,false,false
+494,Noctowl,type_flying,Special Stage,60,Power of 5,20%,ic_noctowl,false,false
+495,Uxie,type_psychic,Special Stage,70,Mind Zap,7%,ic_uxie,false,false
+496,Mesprit,type_psychic,Unknown,0,Unknown,---,ic_mesprit,false,false
+497,Azelf,type_psychic,Unknown,0,Unknown,---,ic_azelf,false,false
+498,Cleffa,type_fairy,Special Stage,30,Mega Boost,12%,ic_cleffa,false,false
+499,Clefairy,type_fairy,Special Stage,50,Crowd Control,20%,ic_clefairy,false,false
+500,Clefable,type_fairy,Special Stage,60,Pixie Power,14%,ic_clefable,false,false
+501,Deerling,type_grass,Special Stage,50,Eject,10%,ic_deerling,false,false
+502,Sawsbuck,type_grass,Special Stage,60,Block Smash,12%,ic_sawsbuck,false,false
+503,Zygarde,type_dragon,Special Stage,50,Mega Boost+,10%,ic_zygarde,false,false
+91,Mega Sceptile,type_grass,Special Stage,70,Sceptile Mega Power,---,ic_mega_sceptile,false,false
